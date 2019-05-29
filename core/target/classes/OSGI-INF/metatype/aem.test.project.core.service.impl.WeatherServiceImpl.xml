@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/l10n/aem.test.project.core.service.impl.WeatherServiceImpl">
+    <OCD id="aem.test.project.core.service.impl.WeatherServiceImpl" name="%aem.test.project.core.service.impl.WeatherServiceImpl.name" description="%aem.test.project.core.service.impl.WeatherServiceImpl.description">
+        <AD id="path" type="String" default="https://samples.openweathermap.org/data/2.5/weather" name="%aem.test.project.core.service.impl.WeatherServiceImpl.path.name" description="%aem.test.project.core.service.impl.WeatherServiceImpl.path.description"/>
+    </OCD>
+    <Designate pid="aem.test.project.core.service.impl.WeatherServiceImpl">
+        <Object ocdref="aem.test.project.core.service.impl.WeatherServiceImpl"/>
+    </Designate>
+</metatype:MetaData>

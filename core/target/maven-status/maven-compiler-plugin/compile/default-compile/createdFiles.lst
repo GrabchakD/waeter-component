@@ -1,0 +1,7 @@
+aem\test\project\core\service\WeatherService.class
+aem\test\project\core\servlets\SimpleServlet.class
+aem\test\project\core\service\impl\WeatherServiceImpl.class
+aem\test\project\core\models\weather\WeatherModel.class
+aem\test\project\core\package-info.class
+aem\test\project\core\bean\WeatherItems.class
+aem\test\project\core\servlets\WeatherServlet.class

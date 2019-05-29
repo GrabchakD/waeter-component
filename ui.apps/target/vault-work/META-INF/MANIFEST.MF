@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: aem-test - UI apps
+Content-Package-Roots: /apps/aem-test,/etc/packages/adobe/cq60/core.wc
+ m.components.all-2.3.2.zip,/etc/packages/adobe/cq60/core.wcm.componen
+ ts.examples-2.3.2.zip
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: d.grabchak
+Implementation-Vendor-Id: aem.test.project
+Content-Package-Type: mixed
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_211
+Content-Package-Description: UI apps package for aem-test
+Content-Package-Id: aem-test:aem.test.project.aem-test.ui.apps:1.0-SNA
+ PSHOT
+

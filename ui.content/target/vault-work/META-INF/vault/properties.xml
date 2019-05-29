@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aem-test - UI content</comment>
+<entry key="createdBy">d.grabchak</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">aem.test.project.aem-test.ui.content</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="created">2019-05-28T17:31:13.746+03:00</entry>
+<entry key="groupId">aem.test.project</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aem-test</entry>
+<entry key="description">UI content package for aem-test</entry>
+<entry key="artifactId">aem.test.project.aem-test.ui.content</entry>
+</properties>

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1559053875487
+Build-Jdk: 1.8.0_211
+Built-By: d.grabchak
+Bundle-Description: Bundles for Integration Tests for aem-test
+Bundle-ManifestVersion: 2
+Bundle-Name: aem-test - Integration Tests Bundles
+Bundle-SymbolicName: aem.test.project.aem-test.it.tests
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Sling-Test-Regexp: .*Test
+Tool: Bnd-4.1.0.201810181252

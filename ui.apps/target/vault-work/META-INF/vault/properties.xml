@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aem-test - UI apps</comment>
+<entry key="createdBy">d.grabchak</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">aem.test.project.aem-test.ui.apps</entry>
+<entry key="created">2019-05-28T17:31:07.894+03:00</entry>
+<entry key="groupId">aem.test.project</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="packageType">mixed</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aem-test</entry>
+<entry key="description">UI apps package for aem-test</entry>
+<entry key="artifactId">aem.test.project.aem-test.ui.apps</entry>
+</properties>
